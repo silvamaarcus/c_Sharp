@@ -1,0 +1,11 @@
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 2\L02E02\bin\Debug\netcoreapp3.1\L02E02.exe
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 2\L02E02\bin\Debug\netcoreapp3.1\L02E02.deps.json
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 2\L02E02\bin\Debug\netcoreapp3.1\L02E02.runtimeconfig.json
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 2\L02E02\bin\Debug\netcoreapp3.1\L02E02.runtimeconfig.dev.json
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 2\L02E02\bin\Debug\netcoreapp3.1\L02E02.dll
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 2\L02E02\bin\Debug\netcoreapp3.1\L02E02.pdb
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 2\L02E02\obj\Debug\netcoreapp3.1\L02E02.csprojAssemblyReference.cache
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 2\L02E02\obj\Debug\netcoreapp3.1\L02E02.AssemblyInfoInputs.cache
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 2\L02E02\obj\Debug\netcoreapp3.1\L02E02.AssemblyInfo.cs
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 2\L02E02\obj\Debug\netcoreapp3.1\L02E02.dll
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 2\L02E02\obj\Debug\netcoreapp3.1\L02E02.pdb

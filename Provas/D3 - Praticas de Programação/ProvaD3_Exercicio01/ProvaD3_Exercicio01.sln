@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaD3_Exercicio01", "ProvaD3_Exercicio01.csproj", "{EFC7D419-6B4C-4E9D-B825-BC6D1E7D27F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFC7D419-6B4C-4E9D-B825-BC6D1E7D27F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC7D419-6B4C-4E9D-B825-BC6D1E7D27F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC7D419-6B4C-4E9D-B825-BC6D1E7D27F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC7D419-6B4C-4E9D-B825-BC6D1E7D27F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE07DE8C-7404-4846-BC6C-E19B7FF75F6A}
+	EndGlobalSection
+EndGlobal

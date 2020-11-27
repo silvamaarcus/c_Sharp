@@ -1,0 +1,13 @@
+C:\Projetos VS Studio\Provas\D3 - Praticas de Programação\ProvaD3_Exercicio01\bin\Debug\netcoreapp3.1\ProvaD3_Exercicio01.exe
+C:\Projetos VS Studio\Provas\D3 - Praticas de Programação\ProvaD3_Exercicio01\bin\Debug\netcoreapp3.1\ProvaD3_Exercicio01.deps.json
+C:\Projetos VS Studio\Provas\D3 - Praticas de Programação\ProvaD3_Exercicio01\bin\Debug\netcoreapp3.1\ProvaD3_Exercicio01.runtimeconfig.json
+C:\Projetos VS Studio\Provas\D3 - Praticas de Programação\ProvaD3_Exercicio01\bin\Debug\netcoreapp3.1\ProvaD3_Exercicio01.runtimeconfig.dev.json
+C:\Projetos VS Studio\Provas\D3 - Praticas de Programação\ProvaD3_Exercicio01\bin\Debug\netcoreapp3.1\ProvaD3_Exercicio01.dll
+C:\Projetos VS Studio\Provas\D3 - Praticas de Programação\ProvaD3_Exercicio01\bin\Debug\netcoreapp3.1\ProvaD3_Exercicio01.pdb
+C:\Projetos VS Studio\Provas\D3 - Praticas de Programação\ProvaD3_Exercicio01\obj\Debug\netcoreapp3.1\ProvaD3_Exercicio01.csprojAssemblyReference.cache
+C:\Projetos VS Studio\Provas\D3 - Praticas de Programação\ProvaD3_Exercicio01\obj\Debug\netcoreapp3.1\ProvaD3_Exercicio01.csproj.CoreCompileInputs.cache
+C:\Projetos VS Studio\Provas\D3 - Praticas de Programação\ProvaD3_Exercicio01\obj\Debug\netcoreapp3.1\ProvaD3_Exercicio01.AssemblyInfoInputs.cache
+C:\Projetos VS Studio\Provas\D3 - Praticas de Programação\ProvaD3_Exercicio01\obj\Debug\netcoreapp3.1\ProvaD3_Exercicio01.AssemblyInfo.cs
+C:\Projetos VS Studio\Provas\D3 - Praticas de Programação\ProvaD3_Exercicio01\obj\Debug\netcoreapp3.1\ProvaD3_Exercicio01.dll
+C:\Projetos VS Studio\Provas\D3 - Praticas de Programação\ProvaD3_Exercicio01\obj\Debug\netcoreapp3.1\ProvaD3_Exercicio01.pdb
+C:\Projetos VS Studio\Provas\D3 - Praticas de Programação\ProvaD3_Exercicio01\obj\Debug\netcoreapp3.1\ProvaD3_Exercicio01.genruntimeconfig.cache

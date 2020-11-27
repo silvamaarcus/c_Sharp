@@ -1,0 +1,13 @@
+C:\Projetos VS Studio\Provas\D2 - Praticas de Programação\ProvaD2_Exercicio02\bin\Debug\netcoreapp3.1\ProvaD2_Exercicio02.exe
+C:\Projetos VS Studio\Provas\D2 - Praticas de Programação\ProvaD2_Exercicio02\bin\Debug\netcoreapp3.1\ProvaD2_Exercicio02.deps.json
+C:\Projetos VS Studio\Provas\D2 - Praticas de Programação\ProvaD2_Exercicio02\bin\Debug\netcoreapp3.1\ProvaD2_Exercicio02.runtimeconfig.json
+C:\Projetos VS Studio\Provas\D2 - Praticas de Programação\ProvaD2_Exercicio02\bin\Debug\netcoreapp3.1\ProvaD2_Exercicio02.runtimeconfig.dev.json
+C:\Projetos VS Studio\Provas\D2 - Praticas de Programação\ProvaD2_Exercicio02\bin\Debug\netcoreapp3.1\ProvaD2_Exercicio02.dll
+C:\Projetos VS Studio\Provas\D2 - Praticas de Programação\ProvaD2_Exercicio02\bin\Debug\netcoreapp3.1\ProvaD2_Exercicio02.pdb
+C:\Projetos VS Studio\Provas\D2 - Praticas de Programação\ProvaD2_Exercicio02\obj\Debug\netcoreapp3.1\ProvaD2_Exercicio02.csprojAssemblyReference.cache
+C:\Projetos VS Studio\Provas\D2 - Praticas de Programação\ProvaD2_Exercicio02\obj\Debug\netcoreapp3.1\ProvaD2_Exercicio02.csproj.CoreCompileInputs.cache
+C:\Projetos VS Studio\Provas\D2 - Praticas de Programação\ProvaD2_Exercicio02\obj\Debug\netcoreapp3.1\ProvaD2_Exercicio02.AssemblyInfoInputs.cache
+C:\Projetos VS Studio\Provas\D2 - Praticas de Programação\ProvaD2_Exercicio02\obj\Debug\netcoreapp3.1\ProvaD2_Exercicio02.AssemblyInfo.cs
+C:\Projetos VS Studio\Provas\D2 - Praticas de Programação\ProvaD2_Exercicio02\obj\Debug\netcoreapp3.1\ProvaD2_Exercicio02.dll
+C:\Projetos VS Studio\Provas\D2 - Praticas de Programação\ProvaD2_Exercicio02\obj\Debug\netcoreapp3.1\ProvaD2_Exercicio02.pdb
+C:\Projetos VS Studio\Provas\D2 - Praticas de Programação\ProvaD2_Exercicio02\obj\Debug\netcoreapp3.1\ProvaD2_Exercicio02.genruntimeconfig.cache

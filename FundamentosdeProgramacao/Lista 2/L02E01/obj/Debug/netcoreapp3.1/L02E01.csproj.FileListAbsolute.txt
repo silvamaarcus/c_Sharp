@@ -1,0 +1,24 @@
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 2\L02E01\bin\Debug\netcoreapp3.1\L02E01.exe
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 2\L02E01\bin\Debug\netcoreapp3.1\L02E01.deps.json
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 2\L02E01\bin\Debug\netcoreapp3.1\L02E01.runtimeconfig.json
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 2\L02E01\bin\Debug\netcoreapp3.1\L02E01.runtimeconfig.dev.json
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 2\L02E01\bin\Debug\netcoreapp3.1\L02E01.dll
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 2\L02E01\bin\Debug\netcoreapp3.1\L02E01.pdb
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 2\L02E01\obj\Debug\netcoreapp3.1\L02E01.csprojAssemblyReference.cache
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 2\L02E01\obj\Debug\netcoreapp3.1\L02E01.AssemblyInfoInputs.cache
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 2\L02E01\obj\Debug\netcoreapp3.1\L02E01.AssemblyInfo.cs
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 2\L02E01\obj\Debug\netcoreapp3.1\L02E01.dll
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 2\L02E01\obj\Debug\netcoreapp3.1\L02E01.pdb
+D:\UNA\c_sharp\FundamentosdeProgramacao\Lista 2\L02E01\bin\Debug\netcoreapp3.1\L02E01.exe
+D:\UNA\c_sharp\FundamentosdeProgramacao\Lista 2\L02E01\bin\Debug\netcoreapp3.1\L02E01.deps.json
+D:\UNA\c_sharp\FundamentosdeProgramacao\Lista 2\L02E01\bin\Debug\netcoreapp3.1\L02E01.runtimeconfig.json
+D:\UNA\c_sharp\FundamentosdeProgramacao\Lista 2\L02E01\bin\Debug\netcoreapp3.1\L02E01.runtimeconfig.dev.json
+D:\UNA\c_sharp\FundamentosdeProgramacao\Lista 2\L02E01\bin\Debug\netcoreapp3.1\L02E01.dll
+D:\UNA\c_sharp\FundamentosdeProgramacao\Lista 2\L02E01\bin\Debug\netcoreapp3.1\L02E01.pdb
+D:\UNA\c_sharp\FundamentosdeProgramacao\Lista 2\L02E01\obj\Debug\netcoreapp3.1\L02E01.csprojAssemblyReference.cache
+D:\UNA\c_sharp\FundamentosdeProgramacao\Lista 2\L02E01\obj\Debug\netcoreapp3.1\L02E01.AssemblyInfoInputs.cache
+D:\UNA\c_sharp\FundamentosdeProgramacao\Lista 2\L02E01\obj\Debug\netcoreapp3.1\L02E01.AssemblyInfo.cs
+D:\UNA\c_sharp\FundamentosdeProgramacao\Lista 2\L02E01\obj\Debug\netcoreapp3.1\L02E01.csproj.CoreCompileInputs.cache
+D:\UNA\c_sharp\FundamentosdeProgramacao\Lista 2\L02E01\obj\Debug\netcoreapp3.1\L02E01.dll
+D:\UNA\c_sharp\FundamentosdeProgramacao\Lista 2\L02E01\obj\Debug\netcoreapp3.1\L02E01.pdb
+D:\UNA\c_sharp\FundamentosdeProgramacao\Lista 2\L02E01\obj\Debug\netcoreapp3.1\L02E01.genruntimeconfig.cache

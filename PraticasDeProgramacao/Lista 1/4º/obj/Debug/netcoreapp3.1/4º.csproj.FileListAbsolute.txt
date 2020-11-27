@@ -1,0 +1,11 @@
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\4º\bin\Debug\netcoreapp3.1\4º.exe
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\4º\bin\Debug\netcoreapp3.1\4º.deps.json
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\4º\bin\Debug\netcoreapp3.1\4º.runtimeconfig.json
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\4º\bin\Debug\netcoreapp3.1\4º.runtimeconfig.dev.json
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\4º\bin\Debug\netcoreapp3.1\4º.dll
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\4º\bin\Debug\netcoreapp3.1\4º.pdb
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\4º\obj\Debug\netcoreapp3.1\4º.csprojAssemblyReference.cache
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\4º\obj\Debug\netcoreapp3.1\4º.AssemblyInfoInputs.cache
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\4º\obj\Debug\netcoreapp3.1\4º.AssemblyInfo.cs
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\4º\obj\Debug\netcoreapp3.1\4º.dll
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\4º\obj\Debug\netcoreapp3.1\4º.pdb

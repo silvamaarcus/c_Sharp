@@ -1,0 +1,10 @@
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\24º Exercicio\bin\Debug\netcoreapp3.1\24º Exercicio.exe
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\24º Exercicio\bin\Debug\netcoreapp3.1\24º Exercicio.deps.json
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\24º Exercicio\bin\Debug\netcoreapp3.1\24º Exercicio.runtimeconfig.json
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\24º Exercicio\bin\Debug\netcoreapp3.1\24º Exercicio.runtimeconfig.dev.json
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\24º Exercicio\bin\Debug\netcoreapp3.1\24º Exercicio.dll
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\24º Exercicio\bin\Debug\netcoreapp3.1\24º Exercicio.pdb
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\24º Exercicio\obj\Debug\netcoreapp3.1\24º Exercicio.AssemblyInfoInputs.cache
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\24º Exercicio\obj\Debug\netcoreapp3.1\24º Exercicio.AssemblyInfo.cs
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\24º Exercicio\obj\Debug\netcoreapp3.1\24º Exercicio.dll
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\24º Exercicio\obj\Debug\netcoreapp3.1\24º Exercicio.pdb

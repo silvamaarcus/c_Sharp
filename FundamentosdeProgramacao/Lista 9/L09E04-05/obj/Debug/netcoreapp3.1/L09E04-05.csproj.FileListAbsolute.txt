@@ -1,0 +1,13 @@
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 9\L09E04-05\bin\Debug\netcoreapp3.1\L09E04-05.exe
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 9\L09E04-05\bin\Debug\netcoreapp3.1\L09E04-05.deps.json
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 9\L09E04-05\bin\Debug\netcoreapp3.1\L09E04-05.runtimeconfig.json
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 9\L09E04-05\bin\Debug\netcoreapp3.1\L09E04-05.runtimeconfig.dev.json
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 9\L09E04-05\bin\Debug\netcoreapp3.1\L09E04-05.dll
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 9\L09E04-05\bin\Debug\netcoreapp3.1\L09E04-05.pdb
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 9\L09E04-05\obj\Debug\netcoreapp3.1\L09E04-05.csprojAssemblyReference.cache
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 9\L09E04-05\obj\Debug\netcoreapp3.1\L09E04-05.csproj.CoreCompileInputs.cache
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 9\L09E04-05\obj\Debug\netcoreapp3.1\L09E04-05.AssemblyInfoInputs.cache
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 9\L09E04-05\obj\Debug\netcoreapp3.1\L09E04-05.AssemblyInfo.cs
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 9\L09E04-05\obj\Debug\netcoreapp3.1\L09E04-05.dll
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 9\L09E04-05\obj\Debug\netcoreapp3.1\L09E04-05.pdb
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 9\L09E04-05\obj\Debug\netcoreapp3.1\L09E04-05.genruntimeconfig.cache

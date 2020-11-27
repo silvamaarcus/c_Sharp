@@ -1,0 +1,13 @@
+C:\Projetos VS Studio\Práticas de Programação\Lista 4 (Matriz)\L04E03\bin\Debug\netcoreapp3.1\L04E03.exe
+C:\Projetos VS Studio\Práticas de Programação\Lista 4 (Matriz)\L04E03\bin\Debug\netcoreapp3.1\L04E03.deps.json
+C:\Projetos VS Studio\Práticas de Programação\Lista 4 (Matriz)\L04E03\bin\Debug\netcoreapp3.1\L04E03.runtimeconfig.json
+C:\Projetos VS Studio\Práticas de Programação\Lista 4 (Matriz)\L04E03\bin\Debug\netcoreapp3.1\L04E03.runtimeconfig.dev.json
+C:\Projetos VS Studio\Práticas de Programação\Lista 4 (Matriz)\L04E03\bin\Debug\netcoreapp3.1\L04E03.dll
+C:\Projetos VS Studio\Práticas de Programação\Lista 4 (Matriz)\L04E03\bin\Debug\netcoreapp3.1\L04E03.pdb
+C:\Projetos VS Studio\Práticas de Programação\Lista 4 (Matriz)\L04E03\obj\Debug\netcoreapp3.1\L04E03.csprojAssemblyReference.cache
+C:\Projetos VS Studio\Práticas de Programação\Lista 4 (Matriz)\L04E03\obj\Debug\netcoreapp3.1\L04E03.csproj.CoreCompileInputs.cache
+C:\Projetos VS Studio\Práticas de Programação\Lista 4 (Matriz)\L04E03\obj\Debug\netcoreapp3.1\L04E03.AssemblyInfoInputs.cache
+C:\Projetos VS Studio\Práticas de Programação\Lista 4 (Matriz)\L04E03\obj\Debug\netcoreapp3.1\L04E03.AssemblyInfo.cs
+C:\Projetos VS Studio\Práticas de Programação\Lista 4 (Matriz)\L04E03\obj\Debug\netcoreapp3.1\L04E03.dll
+C:\Projetos VS Studio\Práticas de Programação\Lista 4 (Matriz)\L04E03\obj\Debug\netcoreapp3.1\L04E03.pdb
+C:\Projetos VS Studio\Práticas de Programação\Lista 4 (Matriz)\L04E03\obj\Debug\netcoreapp3.1\L04E03.genruntimeconfig.cache

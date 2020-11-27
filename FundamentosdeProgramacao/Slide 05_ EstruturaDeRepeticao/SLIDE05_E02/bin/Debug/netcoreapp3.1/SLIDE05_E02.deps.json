@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SLIDE05_E02/1.0.0": {
+        "runtime": {
+          "SLIDE05_E02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SLIDE05_E02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

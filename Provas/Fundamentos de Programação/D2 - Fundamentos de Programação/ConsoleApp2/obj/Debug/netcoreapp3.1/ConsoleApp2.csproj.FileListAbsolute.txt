@@ -1,0 +1,13 @@
+C:\Projetos VS Studio\Provas\Fundamentos de Programação\D2 - Fundamentos de Programação\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+C:\Projetos VS Studio\Provas\Fundamentos de Programação\D2 - Fundamentos de Programação\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+C:\Projetos VS Studio\Provas\Fundamentos de Programação\D2 - Fundamentos de Programação\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+C:\Projetos VS Studio\Provas\Fundamentos de Programação\D2 - Fundamentos de Programação\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+C:\Projetos VS Studio\Provas\Fundamentos de Programação\D2 - Fundamentos de Programação\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+C:\Projetos VS Studio\Provas\Fundamentos de Programação\D2 - Fundamentos de Programação\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+C:\Projetos VS Studio\Provas\Fundamentos de Programação\D2 - Fundamentos de Programação\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csprojAssemblyReference.cache
+C:\Projetos VS Studio\Provas\Fundamentos de Programação\D2 - Fundamentos de Programação\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Projetos VS Studio\Provas\Fundamentos de Programação\D2 - Fundamentos de Programação\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Projetos VS Studio\Provas\Fundamentos de Programação\D2 - Fundamentos de Programação\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+C:\Projetos VS Studio\Provas\Fundamentos de Programação\D2 - Fundamentos de Programação\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
+C:\Projetos VS Studio\Provas\Fundamentos de Programação\D2 - Fundamentos de Programação\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
+C:\Projetos VS Studio\Provas\Fundamentos de Programação\D2 - Fundamentos de Programação\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache

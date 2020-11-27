@@ -1,0 +1,11 @@
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 3\L03E10\bin\Debug\netcoreapp3.1\L03E10.exe
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 3\L03E10\bin\Debug\netcoreapp3.1\L03E10.deps.json
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 3\L03E10\bin\Debug\netcoreapp3.1\L03E10.runtimeconfig.json
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 3\L03E10\bin\Debug\netcoreapp3.1\L03E10.runtimeconfig.dev.json
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 3\L03E10\bin\Debug\netcoreapp3.1\L03E10.dll
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 3\L03E10\bin\Debug\netcoreapp3.1\L03E10.pdb
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 3\L03E10\obj\Debug\netcoreapp3.1\L03E10.csprojAssemblyReference.cache
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 3\L03E10\obj\Debug\netcoreapp3.1\L03E10.AssemblyInfoInputs.cache
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 3\L03E10\obj\Debug\netcoreapp3.1\L03E10.AssemblyInfo.cs
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 3\L03E10\obj\Debug\netcoreapp3.1\L03E10.dll
+C:\Projetos VS Studio\Fundamentos de Programação\Lista 3\L03E10\obj\Debug\netcoreapp3.1\L03E10.pdb

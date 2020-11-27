@@ -1,0 +1,11 @@
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\10º_Exercicio\obj\Debug\netcoreapp3.1\10º_Exercicio.csprojAssemblyReference.cache
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\10º_Exercicio\obj\Debug\netcoreapp3.1\10º_Exercicio.AssemblyInfoInputs.cache
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\10º_Exercicio\obj\Debug\netcoreapp3.1\10º_Exercicio.AssemblyInfo.cs
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\10º_Exercicio\bin\Debug\netcoreapp3.1\10º_Exercicio.exe
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\10º_Exercicio\bin\Debug\netcoreapp3.1\10º_Exercicio.deps.json
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\10º_Exercicio\bin\Debug\netcoreapp3.1\10º_Exercicio.runtimeconfig.json
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\10º_Exercicio\bin\Debug\netcoreapp3.1\10º_Exercicio.runtimeconfig.dev.json
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\10º_Exercicio\bin\Debug\netcoreapp3.1\10º_Exercicio.dll
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\10º_Exercicio\bin\Debug\netcoreapp3.1\10º_Exercicio.pdb
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\10º_Exercicio\obj\Debug\netcoreapp3.1\10º_Exercicio.dll
+C:\Projetos VS Studio\Práticas de Programação\Lista 1\10º_Exercicio\obj\Debug\netcoreapp3.1\10º_Exercicio.pdb
